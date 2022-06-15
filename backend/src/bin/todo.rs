@@ -1,4 +1,4 @@
-use mytodo::db::{create_task, estabilish_connection, query_task};
+use backend::db::{create_task, estabilish_connection, query_task};
 use std::env;
 
 fn main() {
